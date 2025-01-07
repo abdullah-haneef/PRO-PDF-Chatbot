@@ -1,7 +1,7 @@
 streamlit
 PyPDF2
 pdfplumber
-fitz  # PyMuPDF
+fitz
 sentence_transformers
 faiss-cpu
 openai==0.28
