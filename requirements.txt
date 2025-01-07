@@ -1,0 +1,9 @@
+streamlit
+PyPDF2
+pdfplumber
+fitz  # PyMuPDF
+sentence_transformers
+faiss-cpu
+openai==0.28
+torch
+numpy
