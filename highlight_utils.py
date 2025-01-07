@@ -1,5 +1,5 @@
 import pdfplumber
-import fitz  # PyMuPDF
+import fitz
 
 def get_text_coordinates(pdf_file, text_to_highlight):
     coordinates = []
